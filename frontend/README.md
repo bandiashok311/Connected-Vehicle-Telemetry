@@ -22,7 +22,7 @@ Opens at http://localhost:5173. Vite proxies `/api/*` → `http://localhost:8082
 
 | Path | Access | Description |
 |---|---|---|
-| `/login`, `/signup` | public | Auth |
+| `/login`, | public | Auth |
 | `/` | any auth | Fleet overview (CLIENT: cards / ADMIN: global table) |
 | `/vehicles/:id` | any auth | Single-vehicle drill-down |
 | `/compare` | any auth | Multi-vehicle comparison |
