@@ -13,10 +13,10 @@ Opens at http://localhost:5173. Vite proxies `/api/*` → `http://localhost:8082
 
 ## Seeded credentials (after backend reseed)
 
-- **admin@telemetry.io / admin123** — sees global fleet + admin analytics
-- **client1@telemetry.io / client123** — owns 4 vehicles
-- **client2@telemetry.io / client123** — owns 3 vehicles
-- **client3@telemetry.io / client123** — owns 3 vehicles
+- **admin@gmail.com / admin123** — sees global fleet + admin analytics
+- **client1@gmail.com / client123** — owns 4 vehicles
+- **client2@gmail.com / client123** — owns 3 vehicles
+- **client3@gmail.com / client123** — owns 3 vehicles
 
 ## Routes
 
